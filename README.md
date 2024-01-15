@@ -1,11 +1,11 @@
-# Hi!
+### Hi!
 I'm Aqmarina Shabihah, but it's easier to just call me Arina. I am 3rd year Information Systems student at the University of Singaperbangsa Karawang.
 - 🔭 Currently interning at:
     - [Braincode.id](https://braincore.id/) as a Cloud Engineer
     - [Metrodata Academy](https://metrodataacademy.id) as an Application Developer
 - 🌱 Currently learning: React.js, Laravel, and Flask
 
-# Tech Stacks
+### Tech Stacks
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="48" height="48">
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="48" height="48">
@@ -18,7 +18,7 @@ I'm Aqmarina Shabihah, but it's easier to just call me Arina. I am 3rd year Info
   <img src="https://img.icons8.com/officel/50/000000/php-logo.png" width="48" height="48">
 </div>
 
-# Statistics
+### Statistics
 <p align="left">
 <a href="https://github.com/aqmarinas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aqmarinas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
