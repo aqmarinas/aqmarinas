@@ -1,9 +1,9 @@
 ### Hi!
 I'm Aqmarina Shabihah, but it's easier to just call me Arina. I am 3rd year Information Systems student at the University of Singaperbangsa Karawang.
-- 🔭 Currently interning at:
+- 💼 Currently interning at:
     - [Braincode.id](https://braincore.id/) as a Cloud Engineer
     - [Metrodata Academy](https://metrodataacademy.id) as an Application Developer
-- 🌱 Currently learning: React.js, Laravel, and Flask
+- 💻 Currently learning: React.js, Laravel, and Flask
 
 ### Tech Stacks
 <div style="display: flex; justify-content: space-between; align-items: center;">
