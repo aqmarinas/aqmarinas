@@ -6,15 +6,15 @@ I'm Aqmarina Shabihah, but it's easier to just call me Arina. I am 3rd year Info
 - 🌱 Currently learning: React.js, Laravel, and Flask
 
 # Tech Stacks
-![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
-![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-![PHP](https://img.icons8.com/officel/50/000000/php-logo.png)
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="48" height="48">
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" width="48" height="48">
+<img src="https://img.icons8.com/officel/50/000000/php-logo.png" width="48" height="48">
 
 # Statistics
 <p align="left">
