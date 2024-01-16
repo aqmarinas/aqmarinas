@@ -1,5 +1,5 @@
 ### Hi!
-I'm Aqmarina Shabihah, but it's easier to just call me Arina. I am 3rd year Information Systems student at the University of Singaperbangsa Karawang.
+I'm Aqmarina Shabihah, but it's easier to just call me Arina. 3rd-year Information Systems student at University of Singaperbangsa Karawang.
 - 💼 Currently interning at:
     - [Braincode.id](https://braincore.id/) as a Cloud Engineer
     - [Metrodata Academy](https://metrodataacademy.id) as an Application Developer
