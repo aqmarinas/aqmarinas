@@ -16,6 +16,9 @@ I'm Aqmarina Shabihah, but it's easier to just call me Arina. 3rd-year Informati
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" width="48" height="48">
   <img src="https://img.icons8.com/officel/50/000000/php-logo.png" width="48" height="48">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="48" height="48">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="48" height="48">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="48" height="48">
 </div>
 
 ### Statistics
