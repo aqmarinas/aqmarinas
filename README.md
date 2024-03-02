@@ -3,7 +3,7 @@ I'm Aqmarina Shabihah, but it's easier to just call me Arina. 3rd-year Informati
 - 💼 Currently interning at:
     - [Braincode.id](https://braincore.id/) as a Cloud Engineer
     - [Metrodata Academy](https://metrodataacademy.id) as an Application Developer
-- 💻 Currently learning: React and Tailwind CSS
+- 💻 Currently learning: React and Redux
 
 ### Tech Stacks
 <div style="display: flex; justify-content: space-between; align-items: center;">
