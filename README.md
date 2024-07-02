@@ -18,11 +18,3 @@ I'm Aqmarina Shabihah, but it's easier to just call me Arina. 6th-semester Infor
 [![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
 [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-### Statistics
-<p align="left">
-<a href="https://github.com/aqmarinas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aqmarinas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aqmarinas&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
