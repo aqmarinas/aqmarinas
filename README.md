@@ -1,7 +1,6 @@
 ### Hi!
 I'm Aqmarina Shabihah, but it's easier to just call me Arina. 3rd-year Information Systems student at University of Singaperbangsa Karawang.
-- 💼 Currently interning at:
-    - [Braincode.id](https://braincore.id/) as a Cloud Engineer
+- 💼 Currently intern at [Braincode.id](https://braincore.id/) as a Cloud Engineer
 - 💻 Currently learning: ReactJS
 
 ### Tech Stacks
