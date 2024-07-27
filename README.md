@@ -1,5 +1,5 @@
 ### Hi!
-I'm Aqmarina Shabihah, but it's easier to just call me Arina. 6th-semester Information Systems student at University of Singaperbangsa Karawang.
+I'm Aqmarina Shabihah, but it's easier to just call me Arina. Final-year Information Systems student at University of Singaperbangsa Karawang.
 - 💼 Currently intern at [Braincode.id](https://braincore.id/) as a Cloud Engineer
 - 💻 Currently learning: ReactJS
 
