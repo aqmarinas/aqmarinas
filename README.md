@@ -7,7 +7,7 @@ I'm Aqmarina Shabihah, but it's easier to just call me Arina. Final-year Informa
 
 [![Google Cloud Platform](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) 
+[![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)](https://reactjs.org/) 
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
 [![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
