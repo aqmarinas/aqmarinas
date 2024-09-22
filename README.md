@@ -1,6 +1,5 @@
 ### Hello!
 I'm Aqmarina Shabihah, but it's easier to just call me Arina. Final-year Information Systems student at University of Singaperbangsa Karawang.
-- 💼 Currently an intern at [Braincode.id](https://braincore.id/) as a Cloud Engineer
 - 💻 Currently learning TypeScript, Next.js, and Laravel
 
 ### Tech Stacks
