@@ -1,5 +1,5 @@
 ### Hello!
-I'm Aqmarina Shabihah, but you can just call me Arina. I'm a final-year Information Systems student at Universitas Singaperbangsa Karawang. I'm passionate about softwaren engineering  and currently focused on learning TypeScript, Next.js, and Laravel.
+I'm Aqmarina Shabihah, but you can just call me Arina. I'm a final-year Information Systems student at Universitas Singaperbangsa Karawang. I'm passionate about software engineering  and currently focused on learning TypeScript, Next.js, and Laravel.
 
 ### Tech Stacks
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
