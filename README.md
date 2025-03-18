@@ -1,5 +1,5 @@
 ### Hello!
-I'm Aqmarina Shabihah, but you can just call me Arina. I'm a final-year Information Systems student at Universitas Singaperbangsa Karawang. I'm passionate about software engineering  and currently focused on learning Go.
+I'm Aqmarina Shabihah, but you can just call me Arina. I'm a final-year Information Systems student at Universitas Singaperbangsa Karawang. I'm passionate about software engineering  and currently focused on learning Go and PostgreSQL.
 
 ### Tech Stacks
 | Frontend | Backend | Database | Cloud & DevOps
